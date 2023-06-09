@@ -4,8 +4,3 @@
 <h3 align="center">Linguist from Kazakhstan</h3>
 
 
-<h3 align="left">Tools:</h3>
-
-
-
-
