@@ -19,4 +19,3 @@
 <h3 align="left">Below is the link to the Roberta model retrained on the small dataset of COVID papers in Russian:</h3> 
 <p align="left">
 <a href="https://huggingface.co/Daryaflp/roberta-retrained_ru_covid" target="blank"><img align="center" src="https://github.com/dashaflp/dashaflp/assets/135334217/5fac2b5e-1264-44a3-bf16-8f5e08e80719" alt="" height="30" width="96" /></a> <a 
-
